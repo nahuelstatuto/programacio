@@ -42,6 +42,6 @@ S3C2: Puntero a funciones:
 - punteros a funciones. 2 ejemplos
 
 
-
+</br></br>
 > [!NOTE]
-> La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección especifica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
+> La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
