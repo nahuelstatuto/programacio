@@ -1,5 +1,5 @@
-# programacio
-Repositorio para los programas usado en las clases de Programación Científica - Grado de Matemáticas en la Universitat de Barcelona
+# programació científica (Curs 23/24)
+Repositorio para los programas usado en las clases del grupo de mañanas de Programación Científica - Grado de Matemáticas en la Universitat de Barcelona. 
 
 SxCx: Semana x, Clase x
 
@@ -40,3 +40,8 @@ S3C2: Puntero a funciones:
 - como se reserva memoria en un **a.
 - fugas de memoria (muy rápido)
 - punteros a funciones. 2 ejemplos
+
+
+
+> [!NOTE]
+> La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección especifica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
