@@ -27,5 +27,16 @@ S2C1: Punteros I:
 
 S2C2: Punteros II:
 ------------------
-- como nos movemos por la memoria con &v+1 (programa z.c)
-- cadena_char (cadena.c) para ver a un string como un puntero. Diferentes formas de recorrer un string
+- como nos movemos por la memoria 
+- 2 programas: movemos memoria (z.c) y cadena_char (cadena.c)
+
+S3C1: Punteros III:
+-------------------
+- operadores ++ y --. Ejemplos con variables y punteros 
+- ejercicios de operadores y ppt para interpretar código
+
+S3C2: Puntero a funciones:
+--------------------------
+- como se reserva memoria en un **a.
+- fugas de memoria (muy rápido)
+- punteros a funciones. 2 ejemplos
