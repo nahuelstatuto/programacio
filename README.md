@@ -41,6 +41,15 @@ S3C2: Puntero a funciones:
 - fugas de memoria (muy rápido)
 - punteros a funciones. 2 ejemplos
 
+S4C1: Punteros a funciones II y Intro a ficheros:
+-------------------------------------------------
+- ejemplos de punteros a funciones
+- pdf con teoría de fichero
+- programa "fitxers1.c", primer ejemplo
+
+S4C2: Examen 1: Aritmético de Punteros
+--------------------------------------
+- resultados en prints.res
 
 </br></br>
 > [!NOTE]
