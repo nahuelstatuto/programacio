@@ -47,7 +47,7 @@ S4C1: Punteros a funciones II y Intro a ficheros:
 - pdf con teoría de fichero
 - programa "fitxers1.c", primer ejemplo
 
-S4C2: Examen 1: Aritmético de Punteros
+S4C2: Examen 1: Aritmética de Punteros
 --------------------------------------
 - resultados en prints.res
 
