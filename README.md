@@ -51,6 +51,17 @@ S4C2: Examen 1: Aritmético de Punteros
 --------------------------------------
 - resultados en prints.res
 
+S5C1: Ficheros I
+----------------
+- programa "files_test.c". Ejemplos de lectura con fscanf
+- programas "fitxers1/2.c" a fondo modificando los ficheros de input
+
+S5C2: Ficheros II - Pi day
+--------------------------
+- programas "p1/2/3.c". Lectura y escritura en ficheros y 1 gnuplot
+- programas "fitxers3.c" con getc().
+
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
