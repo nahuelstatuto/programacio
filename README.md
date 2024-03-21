@@ -59,7 +59,15 @@ S5C1: Ficheros I
 S5C2: Ficheros II - Pi day
 --------------------------
 - programas "p1/2/3.c". Lectura y escritura en ficheros y 1 gnuplot
-- programas "fitxers3.c" con getc().
+- programas "fitxers3.c" con getc()
+
+S6C1: Matriz Simpléctica
+--------------------------
+- propuesta y analisis de un programa sobre matrices simplécticas
+
+S6C2: Return ptr
+--------------------------
+- repaso de funciones que devuelven punteros
 
 
 </br></br>
