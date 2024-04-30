@@ -47,27 +47,62 @@ S4C1: Punteros a funciones II y Intro a ficheros:
 - pdf con teoría de fichero
 - programa "fitxers1.c", primer ejemplo
 
-S4C2: Examen 1: Aritmética de Punteros
---------------------------------------
+S4C2: Examen 1: Aritmética de Punteros:
+---------------------------------------
 - resultados en prints.res
 
-S5C1: Ficheros I
-----------------
+S5C1: Ficheros I:
+-----------------
 - programa "files_test.c". Ejemplos de lectura con fscanf
 - programas "fitxers1/2.c" a fondo modificando los ficheros de input
 
-S5C2: Ficheros II - Pi day
---------------------------
+S5C2: Ficheros II - Pi day:
+---------------------------
 - programas "p1/2/3.c". Lectura y escritura en ficheros y 1 gnuplot
 - programas "fitxers3.c" con getc()
 
-S6C1: Matriz Simpléctica
---------------------------
+S6C1: Matriz Simpléctica:
+-------------------------
 - propuesta y analisis de un programa sobre matrices simplécticas
 
-S6C2: Return ptr
---------------------------
+S6C2: Return ptr:
+-----------------
 - repaso de funciones que devuelven punteros
+
+S7C1 - Introducción al concepto de recurrencia:
+-----------------------------------------------
+- No hay ficheros.
+- Ejemplos de recurrencia: Fibonacci y Hanoi.
+- Programas básicos y estructura de un programa en recurrencia.
+
+S7C2 - Hanoi y Recurrencias:
+----------------------------
+- Entendiendo Hanoi a fondo. Número óptimo de pasos. 
+- Recurrencia.
+
+S8C1 - Ecuaciones en recurrencia:
+---------------------------------
+- Desarrollo de la teoría de las ecuaciones en recurrencia.
+- Resolución de ejemplos.
+
+S8C2 - Programas recursivos:
+----------------------------
+- Exemplos de programas en c recursivos.
+- Entender el paso a paso de los programas.
+
+S9C1 - Sant Jordi:
+------------------
+- Sin clase.
+
+S9C2 - El problema de las 8 reinas:
+-----------------------------------
+- Resolución del problema de las 8 reinas.
+- Ejemplo en c de programa recursivo.
+
+S10C1 - Estructuras de datos - Intro:
+-------------------------------------
+- Introducción a las estructuras con typedef.
+- Explicada toda la sintaxis y ejemplo de Fibonacci.
 
 
 </br></br>
