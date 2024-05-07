@@ -104,6 +104,15 @@ S10C1 - Estructuras de datos - Intro:
 - Introducción a las estructuras con typedef.
 - Explicada toda la sintaxis y ejemplo de Fibonacci.
 
+S10C2 - Struct ejemplo
+-------------------------------------
+- trigonometría con triángulos y rectas.
+
+S11C1 - Struct listas
+-------------------------------------
+- Reserva de memória para las structs.
+- Listas encadenadas.
+- Queue's sin acabar.
 
 </br></br>
 > [!NOTE]
