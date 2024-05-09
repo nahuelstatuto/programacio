@@ -114,6 +114,10 @@ S11C1 - Struct listas
 - Listas encadenadas.
 - Queue's sin acabar.
 
+S11C2 - Examen 2: Recurrencias:
+-------------------------------
+- examen.c
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
