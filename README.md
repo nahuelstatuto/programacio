@@ -118,6 +118,12 @@ S11C2 - Examen 2: Recurrencias:
 -------------------------------
 - examen.c
 
+S12C1 - Búsqueda y Ordenación:
+------------------------------
+- cerca.c: Búsqueda lineal y binária
+- miramos algunos metodos de ordenación. Los 2 primeros de metodes-simples.c
+- Tiempo VS N para ordenación
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
