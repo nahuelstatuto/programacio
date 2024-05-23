@@ -124,6 +124,21 @@ S12C1 - Búsqueda y Ordenación:
 - miramos algunos metodos de ordenación. Los 2 primeros de metodes-simples.c
 - Tiempo VS N para ordenación
 
+S12C2 - qsort I:
+----------------
+- explicación teórica del algoritmo qsort
+- ejemplo en pizarra 
+
+S13C1 - qsort II:
+-----------------
+- repaso qsort con código (quicksort.c)
+- qsort de la librería stdlib
+- ejemplo con estructura (quick-socis.c + socis.txt)
+
+S13C2 - Repaso:
+---------------
+- ejemplos de ordenación con estructuras
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
