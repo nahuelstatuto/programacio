@@ -9,7 +9,6 @@ cada case té descripció. La compilació té un warning que està contemplat
 
 void func1();
 void func2();
-void func3();
 void error1();
 void error2();
 void sol_error();
@@ -20,7 +19,6 @@ int main(void) {
     printf(" Escull una opció: \n");
     printf(" 1- Variable i punter\n");
     printf(" 2- Reasignacions\n");
-    printf(" 22- Reasignacions amb vector\n");
     printf(" 3- Warning en compilació i error\n");
     printf(" 4- Sin warning en compilació i error\n");
     printf(" 5- Sense error! fuga de memòria.\n");
@@ -37,10 +35,6 @@ int main(void) {
         case 2:
             /*ús del operadors unaris: &   i   * */
             func2();
-            break;
-        case 22:
-            /*ús del operadors unaris: &   i   * */
-            func3();
             break;
         case 3:
             /*
@@ -160,90 +154,6 @@ void func2(){
     printf("pa  = %p \n", pa);
     printf("*pa = %d \n\n", *pa);
 }
-
-void func3(){
-    int a[3], *pa;        
-
-    a[0] = 0;    
-    a[1] = 1;    
-    a[2] = 2;    
-    pa = &a;   
-
-
-    /*  &, * són operadors inversos un de l'altre */
-    printf("\n S'han fet les assignacions: a[i] = i (0<=i<=2); pa = &a. S'escriu: \n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-    printf("a[0]   = %d \n", a[0]);
-    printf("a[1]   = %d \n", a[1]);
-    printf("a[2]   = %d \n", a[2]);
-    printf("&a  = %p \n", &a);
-    printf("pa  = %p \n", pa);
-    printf("*pa = %d \n", *pa);
-
-
-    /* canviar a o *pa és equivalent */
-
-    a[0] = 1;    
-    a[1] = 2;    
-    a[2] = 3;  
-    printf("\n S'ha reassignat a[i] = i+1. Es torna a escriure: \n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-    printf("a[0]   = %d \n", a[0]);
-    printf("a[1]   = %d \n", a[1]);
-    printf("a[2]   = %d \n", a[2]);
-    printf("&a  = %p \n", &a);
-    printf("pa  = %p \n", pa);
-    printf("*pa = %d \n", *pa);
-
-    *pa = 3; 
-    printf("\n S'ha reassignat *pa = 3. Es torna a escriure: \n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-    printf("a[0]   = %d \n", a[0]);
-    printf("a[1]   = %d \n", a[1]);
-    printf("a[2]   = %d \n", a[2]);
-    printf("&a  = %p \n", &a);
-    printf("pa  = %p \n", pa);
-    printf("*pa = %d \n", *pa);
-
-
-    /* canvi de pa */
-    pa = pa+1;
-    printf("\n Es fa pa = pa+1 i es torna a escriure: \n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-    printf("a[0]   = %d \n", a[0]);
-    printf("a[1]   = %d \n", a[1]);
-    printf("a[2]   = %d \n", a[2]);
-    printf("&a  = %p \n", &a);
-    printf("pa  = %p \n", pa);
-    printf("*pa = %d \n", *pa);
-
-    printf("\n Explicació?\n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-
-
-    a[0] = 0;    
-    a[1] = 1;    
-    a[2] = 2;     
-    pa = &a;
-
-    /* canvi de *pa */
-    *pa = *pa+5;
-    printf("\n S'han fet les assignacions: a[i] = i; pa = &a. I es fa *pa = *pa+5 i es torna a escriure: \n");
-    printf(" Toca intro per continuar...\n");  
-    getchar(); 
-    printf("a[0]   = %d \n", a[0]);
-    printf("a[1]   = %d \n", a[1]);
-    printf("a[2]   = %d \n", a[2]);
-    printf("&a  = %p \n", &a);
-    printf("pa  = %p \n", pa);
-    printf("*pa = %d \n\n", *pa);
-}
-
 
 void error1(){
     int *pa;

@@ -1,4 +1,4 @@
-# programació científica (Curs 23/24)
+# programació científica (Curs 24/25)
 Repositorio para los programas usado en las clases del grupo de mañanas de Programación Científica - Grado de Matemáticas en la Universitat de Barcelona. 
 
 SxCx: Semana x, Clase x
@@ -7,137 +7,18 @@ SxCx: Semana x, Clase x
 S1C1: Repaso de Elementos:
 --------------------------
 - intro + plan docente
-- errores + FLT_EPS 
 - numeros de armstrong (10 mins para hacerlo en papel)
-- método de las potencias (sin acabar)
+- rootsSecondOrd (10 mins para hacerlo en papel)
+- euler (sin acabar)
 
 S1C2: Repaso de Elementos + Punteros:
 -------------------------------------
 - estándars de C (ansi y pedantic + pdf)
-- acabamos potencias: leimos código y repasamos llamadas a funciones
 - intro a punteros:
 	- explicación de dirección y valor para una variable contra direccion, valor y valor apuntado de un puntero.
 	- diferencias de printeo. la dirección es void pero en pedantic se queja.
 	- programa "intro_punteros.c" solo opción 1. 
 
-S2C1: Punteros I:
------------------
-- programa "intro_punteros.c" completo.
-- paso por referencia. 1 solo ejemplo a fondo
-
-S2C2: Punteros II:
-------------------
-- como nos movemos por la memoria 
-- 2 programas: movemos memoria (z.c) y cadena_char (cadena.c)
-
-S3C1: Punteros III:
--------------------
-- operadores ++ y --. Ejemplos con variables y punteros 
-- ejercicios de operadores y ppt para interpretar código
-
-S3C2: Puntero a funciones:
---------------------------
-- como se reserva memoria en un **a.
-- fugas de memoria (muy rápido)
-- punteros a funciones. 2 ejemplos
-
-S4C1: Punteros a funciones II y Intro a ficheros:
--------------------------------------------------
-- ejemplos de punteros a funciones
-- pdf con teoría de fichero
-- programa "fitxers1.c", primer ejemplo
-
-S4C2: Examen 1: Aritmética de Punteros:
----------------------------------------
-- resultados en prints.res
-
-S5C1: Ficheros I:
------------------
-- programa "files_test.c". Ejemplos de lectura con fscanf
-- programas "fitxers1/2.c" a fondo modificando los ficheros de input
-
-S5C2: Ficheros II - Pi day:
----------------------------
-- programas "p1/2/3.c". Lectura y escritura en ficheros y 1 gnuplot
-- programas "fitxers3.c" con getc()
-
-S6C1: Matriz Simpléctica:
--------------------------
-- propuesta y analisis de un programa sobre matrices simplécticas
-
-S6C2: Return ptr:
------------------
-- repaso de funciones que devuelven punteros
-
-S7C1 - Introducción al concepto de recurrencia:
------------------------------------------------
-- No hay ficheros.
-- Ejemplos de recurrencia: Fibonacci y Hanoi.
-- Programas básicos y estructura de un programa en recurrencia.
-
-S7C2 - Hanoi y Recurrencias:
-----------------------------
-- Entendiendo Hanoi a fondo. Número óptimo de pasos. 
-- Recurrencia.
-
-S8C1 - Ecuaciones en recurrencia:
----------------------------------
-- Desarrollo de la teoría de las ecuaciones en recurrencia.
-- Resolución de ejemplos.
-
-S8C2 - Programas recursivos:
-----------------------------
-- Exemplos de programas en c recursivos.
-- Entender el paso a paso de los programas.
-
-S9C1 - Sant Jordi:
-------------------
-- Sin clase.
-
-S9C2 - El problema de las 8 reinas:
------------------------------------
-- Resolución del problema de las 8 reinas.
-- Ejemplo en c de programa recursivo.
-
-S10C1 - Estructuras de datos - Intro:
--------------------------------------
-- Introducción a las estructuras con typedef.
-- Explicada toda la sintaxis y ejemplo de Fibonacci.
-
-S10C2 - Struct ejemplo
--------------------------------------
-- trigonometría con triángulos y rectas.
-
-S11C1 - Struct listas
--------------------------------------
-- Reserva de memória para las structs.
-- Listas encadenadas.
-- Queue's sin acabar.
-
-S11C2 - Examen 2: Recurrencias:
--------------------------------
-- examen.c
-
-S12C1 - Búsqueda y Ordenación:
-------------------------------
-- cerca.c: Búsqueda lineal y binária
-- miramos algunos metodos de ordenación. Los 2 primeros de metodes-simples.c
-- Tiempo VS N para ordenación
-
-S12C2 - qsort I:
-----------------
-- explicación teórica del algoritmo qsort
-- ejemplo en pizarra 
-
-S13C1 - qsort II:
------------------
-- repaso qsort con código (quicksort.c)
-- qsort de la librería stdlib
-- ejemplo con estructura (quick-socis.c + socis.txt)
-
-S13C2 - Repaso:
----------------
-- ejemplos de ordenación con estructuras
 
 </br></br>
 > [!NOTE]
