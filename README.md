@@ -16,8 +16,7 @@ S1C2: Repaso de Elementos + Punteros:
 - estándars de C (ansi y pedantic + pdf)
 - intro a punteros:
 	- explicación de dirección y valor para una variable contra direccion, valor y valor apuntado de un puntero.
-	- diferencias de printeo. la dirección es void pero en pedantic se queja.
-	- programa "intro_punteros.c" solo opción 1. 
+	- programa "intro_punteros.c" opciones 1,2 y 22. 
 
 
 </br></br>
