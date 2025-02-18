@@ -18,6 +18,15 @@ S1C2: Repaso de Elementos + Punteros:
 	- explicación de dirección y valor para una variable contra direccion, valor y valor apuntado de un puntero.
 	- programa "intro_punteros.c" opciones 1,2 y 22. 
 
+S2C1: Punteros I:
+-----------------
+- programa "intro_punteros.c" completo.
+- paso por referencia. 1 solo ejemplo a fondo
+- movemos memoria (z.c)
+
+S2C2: Punteros II:
+------------------
+
 
 </br></br>
 > [!NOTE]
