@@ -27,7 +27,8 @@ S2C1: Punteros I:
 S2C2: Punteros II:
 ------------------
 - punteros a vectores, relación.
-- punteros y strings
+- punteros y strings.
+- ex para hacer en clase.
 
 
 </br></br>
