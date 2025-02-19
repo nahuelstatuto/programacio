@@ -21,11 +21,13 @@ S1C2: Repaso de Elementos + Punteros:
 S2C1: Punteros I:
 -----------------
 - programa "intro_punteros.c" completo.
-- paso por referencia. 1 solo ejemplo a fondo
-- movemos memoria (z.c)
+- paso por referencia. 1 solo ejemplo a fondo.
+- movemos memoria (z.c).
 
 S2C2: Punteros II:
 ------------------
+- punteros a vectores, relación.
+- punteros y strings
 
 
 </br></br>
