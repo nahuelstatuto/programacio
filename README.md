@@ -30,6 +30,13 @@ S2C2: Punteros II:
 - punteros y strings.
 - ex para hacer en clase.
 
+S3C1: Punteros III:
+------------------
+- reserva de memoria.
+- matrius amb punters.
+- operaciones básicas con punteros y variables.
+
+
 
 </br></br>
 > [!NOTE]
