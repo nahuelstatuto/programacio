@@ -38,7 +38,7 @@ int main(void)
          k = k+1;
       }
    
-   /*for (i=0; i<n; i=i+1) free(a[i]);*/ /*aquí es produeixen les fugues */
+   /*for (i=0; i<n; i=i+1) free(a[i]);*/ /*  */
    free(a);
 
    printf("vector b: \n");

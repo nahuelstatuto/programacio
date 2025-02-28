@@ -45,7 +45,7 @@ int main(void)
 
    }
    
-   free(a);       /* això hauria d'estar a dins del "for j" */
+   free(a);       /*  */
 
    return 0;
 }
