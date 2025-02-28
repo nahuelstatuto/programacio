@@ -7,4 +7,4 @@ L'objectiu d'aquest document és proporcionar-vos una manera de programar i comp
 > [!DISCLAIMER]
 >Les pràctiques i els exàmens han de compilar correctament als ordinadors de la universitat. En cap cas s’acceptarà com a excusa haver utilitzat la configuració descrita en aquest document per justificar errors en les entregues.
 
-És **recomanable** que sempre feu l’última compilació del vostre codi als ordinadors de la universitat, utilitzant la terminal i seguint el procediment explicat a les sessions pràctiques. Això us garantirà que el vostre codi funciona correctament en l'entorn en què serà avaluat.
+>És **recomanable** que sempre feu l’última compilació del vostre codi als ordinadors de la universitat, utilitzant la terminal i seguint el procediment explicat a les sessions pràctiques. Això us garantirà que el vostre codi funciona correctament en l'entorn en què serà avaluat.
