@@ -36,7 +36,11 @@ S3C1: Punteros III:
 - matrius amb punters.
 - operaciones básicas con punteros y variables.
 
-
+S3C1: Punteros IV:
+------------------
+- matrius amb punters.
+- fugas de memoria.
+- ejercicios.
 
 </br></br>
 > [!NOTE]
