@@ -42,6 +42,17 @@ S3C1: Punteros IV:
 - fugas de memoria.
 - ejercicios.
 
+S4C1: Más punteros:
+------------------
+- Función que devuelve punteros.
+- Funciones de reserva y liberacion de memoria.
+- Propuesta de proyecto. PDF en carpeta *Extras*
+
+S4C2: Ficheros:
+------------------
+- PDF de ficheros con intro teórica.
+- ejercicios varios para ver funcionalidades de lectura y escritura.
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.

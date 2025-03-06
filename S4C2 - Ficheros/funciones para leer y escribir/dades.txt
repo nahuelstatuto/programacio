@@ -1,0 +1,5 @@
+Nom: Joan
+Edat: 25
+Hola, aquest és un exemple de fitxer de text.
+Segona línia del fitxer de text.
+Aquesta és una nova línia afegida amb fputs.
