@@ -1,5 +1,13 @@
 #include<stdio.h>
 
+/* Leer para entender el proceso de reserva de memoria. O los motivos por lo que no los entendemos :)
+El compilador decide, para optimizar el orden de la reserva, y muchas veces es el totalmente inverso al pensado.
+
+De abajo a arriba y de derecha a izquierda.
+
+https://stackoverflow.com/questions/58148075/order-of-memory-allocation-in-c
+*/
+
 int main() {
 
     int y, z, x;
