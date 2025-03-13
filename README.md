@@ -58,6 +58,11 @@ S5C1: Ficheros II:
 - Programas que usan ficheros para calcular PI.
 - Repaso de punteros.
 
+S5C2: Ex1:
+----------
+- He dejado la salida del programa.
+
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
