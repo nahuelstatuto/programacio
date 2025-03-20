@@ -6,10 +6,10 @@ SxCx: Semana x, Clase x
 
 S1C1: Repaso de Elementos:
 --------------------------
-- intro + plan docente
-- numeros de armstrong (10 mins para hacerlo en papel)
-- rootsSecondOrd (10 mins para hacerlo en papel)
-- euler (sin acabar)
+- intro + plan docente.
+- numeros de armstrong (10 mins para hacerlo en papel).
+- rootsSecondOrd (10 mins para hacerlo en papel).
+- euler (sin acabar).
 
 S1C2: Repaso de Elementos + Punteros:
 -------------------------------------
@@ -46,7 +46,7 @@ S4C1: Más punteros:
 ------------------
 - Función que devuelve punteros.
 - Funciones de reserva y liberacion de memoria.
-- Propuesta de proyecto. PDF en carpeta *Extras*
+- Propuesta de proyecto. PDF en carpeta *Extras*.
 
 S4C2: Ficheros:
 ------------------
@@ -62,6 +62,14 @@ S5C2: Ex1:
 ----------
 - He dejado la salida del programa.
 
+S6C1: Punteros a funciones:
+---------------------------
+- Funciones devolviendo punteros | Repaso.
+- Punteros a funciones. Teoría y ejemplos.
+
+S6C2: Ejercicio tipo examen:
+----------------------------
+- Ejercicio de trabajo autónomo.
 
 </br></br>
 > [!NOTE]
