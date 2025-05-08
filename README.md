@@ -71,6 +71,37 @@ S6C2: Ejercicio tipo examen:
 ----------------------------
 - Ejercicio de trabajo autónomo.
 
+S7C1 - Introducción al concepto de recurrencia:
+-----------------------------------------------
+- Ejemplos de recurrencia: Fibonacci y Hanoi.
+- PDF Teoría. Programas básicos y estructura de un programa en recurrencia.
+
+S8C1 - Programas recursivos
+--------------------
+- Exemplos de programas en c recursivos.
+- Entender el paso a paso de los programas.
+
+S8C2 - El problema de las 8 reinas:
+-----------------------------------
+- Resolución del problema de las 8 reinas.
+- Ejemplo en c de programa recursivo.
+
+S9C2 - Estructuras de datos - Intro:
+-------------------------------------
+- Introducción a las estructuras con typedef.
+- Explicada toda la sintaxis y ejemplo de Fibonacci.
+
+S10C1 - Struct ejemplo
+-------------------------------------
+- Fichero 'fibonacci-taula_mod.c' modificado en clase para reserva de memoria.
+- trigonometría con triángulos y rectas.
+
+S11C1 - Struct listas
+-------------------------------------
+- Reserva de memória para las structs.
+- Listas encadenadas.
+- Queue's sin acabar.
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
