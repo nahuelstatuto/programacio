@@ -13,15 +13,15 @@ void A(int num);
 void B(int* num);
 
 int main(void) {
-    int num;
-    num = 55;
-    printf("num: %d \n",num);
-    A(num);
-    printf("num: %d \n",num);
-    printf("&num: %p \n",&num);
-    B(&num);
-    printf("num: %d \n",num);
-    printf("&num: %p \n",&num);
+    int val;
+    val = 55;
+    printf("val: %d \n",val);
+    A(val);
+    printf("val: %d \n",val);
+    printf("&val: %p \n",&val);
+    B(&val);
+    printf("val: %d \n",val);
+    printf("&val: %p \n",&val);
     return 0;
 }
 
