@@ -5,7 +5,7 @@ VScode:
 -------
 PDF dedicado a la instalación de un editor de código y el compilador gcc para cada sistema operativo.
 
-Propuesta_Proyecto1:
+Propuesta_ProyectoMatrices:
 --------------------
 Enunciado de proyecto en C para la derivación de polinomios y la evaluación mediante el algoritmo de Horner. Se almacena memoria de forma dinámica para una matriz que contiene los coeficiente del polinomio y de sus derivadas.
 
