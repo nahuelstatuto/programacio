@@ -1,0 +1,10 @@
+importante:
+https://www.youtube.com/@3blue1brown
+
+pi (veritasium!):
+https://www.youtube.com/watch?v=gMlf1ELvRzc
+
+series que dan PI:
+usado en p1.c ----> https://mathworld.wolfram.com/PiFormulas.html (ecuación 24,25 y 26)
+usado en p2.c ----> https://www.maeckes.nl/Formule%20voor%20pi%20%28Nilakantha%29%20GB.html
+montecarlo para p3.c
