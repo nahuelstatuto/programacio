@@ -56,10 +56,10 @@ int main(void) {
          
       c = getc(dades);     /* lectura del següent caràcter */
    }
+   fclose(dades); 
 
    printf("longitud maxima: lmax = %d \n", lmax);
 
-   fclose(dades); 
 
    return 0;
 } 
