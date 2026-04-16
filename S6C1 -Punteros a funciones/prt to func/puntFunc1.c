@@ -15,18 +15,15 @@ int main()
 
 	/* Se puede hacer también de la siguiente forma 
 	void (*fun_ptr)(int); 
-	fun_ptr = &fun; 
-	*/
+	fun_ptr = &fun; */
+	
 
 	/* llamamos a la función con el puntero */
 	(*puntero1)(10);
 	puntero2(25);
-
 	fun(3);
-
 	return 0; 
 } 
-
 void fun(int a) 
 { 
 	printf("El valor de a es: %d\n", a); 

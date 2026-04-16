@@ -61,6 +61,16 @@ S6C1: Punteros a funciones:
 - Funciones devolviendo punteros | Repaso.
 - Punteros a funciones. Teoría y ejemplos.
 
+S10C1: Ecuaciones recursivas:
+-----------------------------
+- Definición y método de resolución de ecuaciones recursivas (fichero PDF).
+- Ejemplos de Fibonacci y Torres de Hanoi.
+
+S10C2: Programas recursivos:
+----------------------------
+- Acabamos ejemplos del PDF con ecuaciones NO homogéneas (g(n)!=0).
+- Programa con recusividad y conteo de pasos recursivos.
+
 
 </br></br>
 > [!NOTE]
