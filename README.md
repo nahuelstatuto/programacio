@@ -71,6 +71,10 @@ S10C2: Programas recursivos:
 - Acabamos ejemplos del PDF con ecuaciones NO homogéneas (g(n)!=0).
 - Programa con recusividad y conteo de pasos recursivos.
 
+S11C1 - Exercici recursivitat i intro a Structs:
+------------------------------------------------
+- Resolución de ejercicio en pdf. Función óptima i complejidad en ambos casos para n's grandes.
+- Intro a estructuras de datos y nuevos tipos. Todo en PDF.
 
 </br></br>
 > [!NOTE]
