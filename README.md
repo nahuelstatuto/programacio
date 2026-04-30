@@ -76,6 +76,15 @@ S11C1 - Exercici recursivitat i intro a Structs:
 - Resolución de ejercicio en pdf. Función óptima i complejidad en ambos casos para n's grandes.
 - Intro a estructuras de datos y nuevos tipos. Todo en PDF.
 
+S12C1 - Struct ejemplo
+-------------------------------------
+- Fichero 'fibonacci-taula.c'. También lo hemos modificado en clase para reserva de memoria.
+- Trigonometría con puntos, triángulos y rectas.
+
+S12C2 - Backtracking y el problema de las 8 reinas:
+---------------------------------------------------
+- Resolución del problema de las 8 reinas.
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
