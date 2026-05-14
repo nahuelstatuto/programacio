@@ -85,6 +85,29 @@ S12C2 - Backtracking y el problema de las 8 reinas:
 ---------------------------------------------------
 - Resolución del problema de las 8 reinas.
 
+S13C1 - Struct listas
+---------------------
+- Reserva de memória para las structs.
+- Listas encadenadas.
+- Queue's sin acabar.
+
+S13C2 - Búsqueda y Ordenación:
+------------------------------
+- cerca.c: Búsqueda lineal y binária
+- miramos algunos metodos de ordenación. Los 2 primeros de metodes-simples.c
+- Tiempo VS N para ordenación
+
+S14C1 - qsort I:
+----------------
+- explicación teórica del algoritmo qsort
+- ejemplo en pizarra 
+
+S14C2 - qsort II:
+-----------------
+- repaso qsort con código (quicksort.c)
+- qsort de la librería stdlib
+- ejemplo con estructura (quick-socis.c + socis.txt)
+
 </br></br>
 > [!NOTE]
 > La extensa mayoría de los programas aquí usados han sido creados por profesores y profesoras que han impartido la asignatura en años anteriores. Los archivos que aquí encontraréis es simplemente una selección específica que yo he hecho conjuntamente con algunos programas nuevos que he añadido y/o modificado.
