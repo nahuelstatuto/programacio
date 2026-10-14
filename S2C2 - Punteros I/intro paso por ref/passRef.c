@@ -5,8 +5,8 @@ que recibe num pero no devuelve el valor. En cambio la función B recibe las
 direcciones.
 
 Mostrar el progama y preguntar: que escribe cada print
-
-*/#include<stdio.h>
+*/
+#include<stdio.h>
 #include<math.h>
 
 void A(int num);
